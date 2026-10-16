@@ -17,7 +17,8 @@ This repository contains the complete project across all three parts of the PROG
 
 RaceDay/
 ├── .github/
-│ └── workflows/
+│ ├── workflows/
+│ │     └── api-build-test.yml
 │ ├── validate-docs.yml # Part 1 CI/CD workflow
 │ └── api-build-test.yml # Part 2 CI/CD workflow
 ├── docs/
