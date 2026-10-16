@@ -45,7 +45,7 @@ RaceDay/
 ![Build Status](./workflow.png)
 
 ### Part 2 - API Build and Test
-![API Build Status](ci-cd-success.png)
+![API Build Status](.github/workflows/ci-cd-success.png)
 
 ## YouTube Video
 [Watch the walkthrough](https://youtu.be/hBsQXPo8uqw)
